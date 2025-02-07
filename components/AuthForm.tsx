@@ -27,7 +27,7 @@ What you say , when i ask JEE        </label>
           id="security-question"
           value={answer}
           onChange={(e) => setAnswer(e.target.value)}
-          className="w-full p-2 border rounded"
+          className="w-full p-2 border rounded text-black"
           required
         />
       </div>
