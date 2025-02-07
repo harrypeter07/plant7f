@@ -64,7 +64,7 @@ export default function ValentineAnimation() {
         </div>
       </div>
       <p ref={quoteRef} className={`${styles.quote}  max-sm:text-[10px]`}>
-        "Batane ki baat to nahi hai, 
+        &quot;Batane ki baat to nahi hai, 
 Par....<br></br>
 batane dogi kya? 
 <br></br>
@@ -79,7 +79,7 @@ tum asmaan ho mera..........
 Ek dibiya me,
 sindoor rakha hai mere pass. 
 Tum... 
-lagane dogi kya?"
+lagane dogi kya&#63;&quot;
       </p>
     </div>
   )
